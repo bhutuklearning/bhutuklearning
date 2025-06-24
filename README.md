@@ -41,6 +41,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
+  <!-- Web & JS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
   </a>
@@ -59,16 +60,22 @@
   <a href="https://mongoosejs.com" target="_blank">
     <img alt="Mongoose" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40" />
   </a>
+
+  <!-- Python & Data Science -->
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
   </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <a href="https://numpy.org" target="_blank">
+    <img alt="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" />
   </a>
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" />
+  </a>
+  <a href="https://scikit-learn.org" target="_blank">
+    <img alt="Scikit-learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" />
   </a>
 
+  <!-- Systems Languages -->
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
   </a>
@@ -78,8 +85,19 @@
   <a href="https://www.oracle.com/java/" target="_blank">
     <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" />
   </a>
+
+  <!-- Tools & IDEs -->
+  <a href="https://git-scm.com" target="_blank">
+    <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
+  </a>
+  <a href="https://www.postman.com" target="_blank">
+    <img alt="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" />
+  </a>
 </p>
----
+
 
 ### 📈 GitHub Stats
 
