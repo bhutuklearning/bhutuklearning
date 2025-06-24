@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<p align="right">
+<p align="center">
   <img width="300" alt="coding" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif" />
 </p>
 
