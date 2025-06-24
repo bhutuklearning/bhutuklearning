@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Amritanshu Goutam</h1>
 <p align="center">
-  Full-Stack Developer | MERN Enthusiast | JavaScript Addict
+  Full-Stack Developer | Core CS Enthusiast | AI and ML
 </p>
 
 <p align="center">
