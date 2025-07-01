@@ -40,6 +40,8 @@
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 <p align="left">
   <!-- Web & JS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -96,6 +98,9 @@
   </a>
 
   <!-- Tools & IDEs -->
+  <a href="https://www.linux.org" target="_blank">
+    <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  </a>
   <a href="https://git-scm.com" target="_blank">
     <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
   </a>
