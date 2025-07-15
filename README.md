@@ -40,7 +40,7 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
     <img alt="Portfolio Live" src="https://img.shields.io/badge/Live%20Site-Portfolio-00E676?style=flat&logo=vercel" />
     My Personal Portfolio
   </a><br/>
-  Built with Next.js, Tailwind CSS & Vercel
+  Built with React.js, Tailwind CSS, Framer Motion, Email Js & Deployed on Vercel
 </p>
 
 <p align="left">
@@ -56,7 +56,7 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
     <img alt="Note App" src="https://img.shields.io/badge/Live%20App-Note%20Maker-4169E1?style=flat&logo=node.js" />
     Note Making App
   </a><br/>
-  Full-stack MERN application for taking & managing notes
+  Full-stack MERN application for Notes Making and it supports CRUD.
 </p>
 
 ---
@@ -69,7 +69,7 @@ I’m deploying simple regression models with Streamlit to get hands-on with ML 
     <img alt="Linear Regression Demo" src="https://img.shields.io/badge/Linear%20Regression-View%20Demo-4caf50?style=flat&logo=streamlit" />
     Linear Regression
   </a><br/>
-  Interactive demo of a univariate linear model predicting housing prices.
+  Interactive demo of a univariate linear model predicting housing prices. The link sometimes takes time to run. So please have some patience regarding it.
 </p>
 
 <p align="left">
@@ -77,12 +77,13 @@ I’m deploying simple regression models with Streamlit to get hands-on with ML 
     <img alt="Multiple Linear Regression Demo" src="https://img.shields.io/badge/Multiple%20Linear%20Regression-View%20Demo-2196f3?style=flat&logo=streamlit" />
     Multiple Linear Regression
   </a><br/>
-  Multivariate regression on the Boston housing dataset with dynamic feature inputs.
+  Multivariate regression.
+The link sometimes takes time to run. So please have some patience regarding it.
 </p>
 
 ---
 
-### 🌱 What I’ll Learn
+### 🌱 What I am aiming to learn
 - TypeScript & advanced React patterns  
 - Docker & containerization  
 - Integrating AI/ML into full-stack applications
