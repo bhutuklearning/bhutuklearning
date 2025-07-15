@@ -28,9 +28,8 @@
 Engineering student passionate about building real-world solutions with hands-on experience in low-level systems, full-stack development, and AI/ML.  
 Adept in C, Python, and modern frameworks, with a strong foundation in networking, security, and scalable software design.  
 
-- I build **scalable web applications** with JavaScript, React, Node.js & MongoDB.  
-- I love clean code, pixel-perfect UIs and well-documented APIs.  
-- On a mission to master the **MERN stack**, level-up my DevOps skills and contribute to open source.
+- On a mission to master the **MERN stack**, level-up my problem solving skills and contribute to open source.
+- Learning AI and Machine learning to come up with more new ideas to solve the problem.
 
 ---
 
@@ -61,15 +60,12 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
 </p>
 
 ---
+  
 
-### 🔭 What I’m Working On
-- 🚀 A **food-ordering** web app with real-time order tracking (MERN + Socket.io).  
-- 📚 A set of **JavaScript mini-projects** to sharpen algorithms & data structures.  
-
-### 🌱 What I’m Learning
-- Docker & containerization  
+### 🌱 What I’ll Learn
 - TypeScript & advanced React patterns  
-- CI/CD pipelines with GitHub Actions  
+- Docker & containerization  
+- Integrating AI with Fullstack Applications.
 
 ---
 
