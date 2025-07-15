@@ -26,10 +26,10 @@
 
 ### 👨‍💻 About Me
 Engineering student passionate about building real-world solutions with hands-on experience in low-level systems, full-stack development, and AI/ML.  
-Adept in C, Python, and modern frameworks, with a strong foundation in networking, security, and scalable software design.  
+Adept in C, Python, and modern frameworks, with a strong foundation in networking, security, and scalable software design.
 
-- On a mission to master the **MERN stack**, level-up my problem solving skills and contribute to open source.
-- Learning AI and Machine learning to come up with more new ideas to solve the problem.
+- On a mission to master the **MERN stack**, level-up my problem-solving skills, and contribute to open source.  
+- Exploring AI and ML to uncover innovative solutions for real-world problems.
 
 ---
 
@@ -39,33 +39,53 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
   <a href="https://amritanshuportfolio.vercel.app/" target="_blank">
     <img alt="Portfolio Live" src="https://img.shields.io/badge/Live%20Site-Portfolio-00E676?style=flat&logo=vercel" />
     My Personal Portfolio
-  </a>  
-  <br />Built with Next.js, Tailwind CSS & Vercel
+  </a><br/>
+  Built with Next.js, Tailwind CSS & Vercel
 </p>
 
 <p align="left">
   <a href="https://bhutuklearning.github.io/Js-Beginner-Project/" target="_blank">
     <img alt="JS Beginner Project" src="https://img.shields.io/badge/Live%20Demo-JS%20Beginner%20Project-FF6F00?style=flat&logo=javascript" />
     JS Beginner Project
-  </a>  
-  <br />Simple HTML, CSS & JavaScript showcase
+  </a><br/>
+  Simple HTML, CSS & JavaScript showcase
 </p>
 
 <p align="left">
   <a href="https://note-making-app-wgw3.onrender.com/" target="_blank">
     <img alt="Note App" src="https://img.shields.io/badge/Live%20App-Note%20Maker-4169E1?style=flat&logo=node.js" />
     Note Making App
-  </a>  
-  <br />Full-stack MERN application for taking & managing notes
+  </a><br/>
+  Full-stack MERN application for taking & managing notes
 </p>
 
 ---
-  
+
+### 🧪 Experimenting with Machine Learning
+I’m deploying simple regression models with Streamlit to get hands-on with ML workflows in the cloud.  
+
+<p align="left">
+  <a href="https://linear-regression-ml.streamlit.app/" target="_blank">
+    <img alt="Linear Regression Demo" src="https://img.shields.io/badge/Linear%20Regression-View%20Demo-4caf50?style=flat&logo=streamlit" />
+    Linear Regression
+  </a><br/>
+  Interactive demo of a univariate linear model predicting housing prices.
+</p>
+
+<p align="left">
+  <a href="https://multiple-linear-regression-ml.streamlit.app/" target="_blank">
+    <img alt="Multiple Linear Regression Demo" src="https://img.shields.io/badge/Multiple%20Linear%20Regression-View%20Demo-2196f3?style=flat&logo=streamlit" />
+    Multiple Linear Regression
+  </a><br/>
+  Multivariate regression on the Boston housing dataset with dynamic feature inputs.
+</p>
+
+---
 
 ### 🌱 What I’ll Learn
 - TypeScript & advanced React patterns  
 - Docker & containerization  
-- Integrating AI with Fullstack Applications.
+- Integrating AI/ML into full-stack applications
 
 ---
 
