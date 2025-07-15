@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Amritanshu Goutam</h1>
 <p align="center">
-  Full-Stack Developer | Core CS Enthusiast | AI and ML
+  Full-Stack Developer | Core CS Enthusiast | AI &amp; ML Advocate
 </p>
 
 <p align="center">
@@ -25,10 +25,42 @@
 ---
 
 ### 👨‍💻 About Me
-Engineering student passionate about building real-world solutions with hands-on experience in low-level systems, full-stack development, and AI/ML. Adept in C, Python, and modern frameworks, with a strong foundation in networking, security, and scalable software design.
+Engineering student passionate about building real-world solutions with hands-on experience in low-level systems, full-stack development, and AI/ML.  
+Adept in C, Python, and modern frameworks, with a strong foundation in networking, security, and scalable software design.  
+
 - I build **scalable web applications** with JavaScript, React, Node.js & MongoDB.  
 - I love clean code, pixel-perfect UIs and well-documented APIs.  
-- I’m on a mission to master the **MERN stack**, Level-Up my DevOps skills and contribute to open source.
+- On a mission to master the **MERN stack**, level-up my DevOps skills and contribute to open source.
+
+---
+
+### 🖥️ Deployed Projects
+
+<p align="left">
+  <a href="https://amritanshuportfolio.vercel.app/" target="_blank">
+    <img alt="Portfolio Live" src="https://img.shields.io/badge/Live%20Site-Portfolio-00E676?style=flat&logo=vercel" />
+    My Personal Portfolio
+  </a>  
+  <br />Built with Next.js, Tailwind CSS & Vercel
+</p>
+
+<p align="left">
+  <a href="https://bhutuklearning.github.io/Js-Beginner-Project/" target="_blank">
+    <img alt="JS Beginner Project" src="https://img.shields.io/badge/Live%20Demo-JS%20Beginner%20Project-FF6F00?style=flat&logo=javascript" />
+    JS Beginner Project
+  </a>  
+  <br />Simple HTML, CSS & JavaScript showcase
+</p>
+
+<p align="left">
+  <a href="https://note-making-app-wgw3.onrender.com/" target="_blank">
+    <img alt="Note App" src="https://img.shields.io/badge/Live%20App-Note%20Maker-4169E1?style=flat&logo=node.js" />
+    Note Making App
+  </a>  
+  <br />Full-stack MERN application for taking & managing notes
+</p>
+
+---
 
 ### 🔭 What I’m Working On
 - 🚀 A **food-ordering** web app with real-time order tracking (MERN + Socket.io).  
@@ -39,16 +71,17 @@ Engineering student passionate about building real-world solutions with hands-on
 - TypeScript & advanced React patterns  
 - CI/CD pipelines with GitHub Actions  
 
+---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
   <!-- Web & JS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+    <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+    <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
   </a>
   <a href="https://tailwindcss.com" target="_blank">
     <img alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
@@ -86,7 +119,7 @@ Engineering student passionate about building real-world solutions with hands-on
     <img alt="Scikit-learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" />
   </a>
 
-  <!-- Systems Languages -->
+  <!-- Systems & Languages -->
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
   </a>
@@ -96,11 +129,11 @@ Engineering student passionate about building real-world solutions with hands-on
   <a href="https://www.oracle.com/java/" target="_blank">
     <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" />
   </a>
-
-  <!-- Tools & IDEs -->
   <a href="https://www.linux.org" target="_blank">
     <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
   </a>
+
+  <!-- Tools & IDEs -->
   <a href="https://git-scm.com" target="_blank">
     <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
   </a>
@@ -111,6 +144,14 @@ Engineering student passionate about building real-world solutions with hands-on
     <img alt="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" />
   </a>
 </p>
+
+---
+
+### 🤝 Let’s Collaborate
+I’m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.  
+Feel free to drop me a line at <a href="mailto:amritanshugoutam@gmail.com">amritanshugoutam@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/amritanshu-goutam-015bab248/">LinkedIn</a>.
+
+---
 
 ### 📈 GitHub Stats
 
