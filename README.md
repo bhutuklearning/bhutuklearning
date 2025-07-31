@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/amritanshu-goutam-015bab248/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amritanshu%20Goutam-0077B5?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:amritanshugoutam@gmail.com">
+  <a href="mailto:amritanshugoutam@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-amritanshugoutam@gmail.com-DD0031?style=flat&logo=gmail" />
   </a>
 </p>
