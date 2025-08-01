@@ -40,7 +40,7 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
     <img alt="Portfolio Live" src="https://img.shields.io/badge/Live%20Site-Portfolio-00E676?style=flat&logo=vercel" />
     My Personal Portfolio
   </a><br/>
-  Built with React.js, Tailwind CSS, Framer Motion, Email Js & Deployed on Vercel
+  Built with React.js, Tailwind CSS, Framer Motion, Email JS & Deployed on Vercel
 </p>
 
 <p align="left">
@@ -57,6 +57,14 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
     Note Making App
   </a><br/>
   Full-stack MERN application for Notes Making and it supports CRUD.
+</p>
+
+<p align="left">
+  <a href="https://todo-frontend-rf06.onrender.com/" target="_blank">
+    <img alt="Todo App" src="https://img.shields.io/badge/Live%20App-Todo%20App-7952B3?style=flat&logo=react" />
+    Todo App
+  </a><br/>
+  A responsive and interactive Todo application built with React and Tailwind CSS. Supports task creation, deletion, and localStorage persistence.
 </p>
 
 ---
