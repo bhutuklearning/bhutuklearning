@@ -44,14 +44,6 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
 </p>
 
 <p align="left">
-  <a href="https://bhutuklearning.github.io/Js-Beginner-Project/" target="_blank">
-    <img alt="JS Beginner Project" src="https://img.shields.io/badge/Live%20Demo-JS%20Beginner%20Project-FF6F00?style=flat&logo=javascript" />
-    JS Beginner Project
-  </a><br/>
-  Simple HTML, CSS & JavaScript showcase
-</p>
-
-<p align="left">
   <a href="https://note-making-app-wgw3.onrender.com/" target="_blank">
     <img alt="Note App" src="https://img.shields.io/badge/Live%20App-Note%20Maker-4169E1?style=flat&logo=node.js" />
     Note Making App
@@ -65,6 +57,14 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
     Todo App
   </a><br/>
   A responsive and interactive Todo application whose frontend is built with HTML, CSS and Js with Tailwind CSS and the backend is build with node, express and MongoDB. 
+</p>
+
+<p align="left">
+  <a href="https://bhutuklearning.github.io/Js-Beginner-Project/" target="_blank">
+    <img alt="JS Beginner Project" src="https://img.shields.io/badge/Live%20Demo-JS%20Beginner%20Project-FF6F00?style=flat&logo=javascript" />
+    JS Beginner Project
+  </a><br/>
+  Simple HTML, CSS & JavaScript showcase
 </p>
 
 ---
