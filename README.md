@@ -48,7 +48,7 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
     <img alt="Note App" src="https://img.shields.io/badge/Live%20App-Note%20Maker-4169E1?style=flat&logo=node.js" />
     Note Making App
   </a><br/>
-  Full-stack MERN application for Notes Making and it supports CRUD.
+  Full-stack MERN application for Notes Making and it supports CRUD. The App is not working as I have exhausted my render limits and please go through the code.
 </p>
 
 <p align="left">
@@ -56,7 +56,7 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
     <img alt="Todo App" src="https://img.shields.io/badge/Live%20App-Todo%20App-7952B3?style=flat&logo=js" />
     Todo App
   </a><br/>
-  A responsive and interactive Todo application whose frontend is built with HTML, CSS and Js with Tailwind CSS and the backend is build with node, express and MongoDB. 
+  A responsive and interactive Todo application whose frontend is built with HTML, CSS and Js with Tailwind CSS and the backend is build with node, express and MongoDB. The App is not working as I have exhausted my render limits and please go through the code.
 </p>
 
 <p align="left">
