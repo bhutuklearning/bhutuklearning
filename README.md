@@ -43,20 +43,20 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
   Built with React.js, Tailwind CSS, Framer Motion, Email JS & Deployed on Vercel
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://note-making-app-wgw3.onrender.com/" target="_blank">
     <img alt="Note App" src="https://img.shields.io/badge/Live%20App-Note%20Maker-4169E1?style=flat&logo=node.js" />
     Note Making App
   </a><br/>
   Full-stack MERN application for Notes Making and it supports CRUD. The App is not working as I have exhausted my render limits and please go through the code.
-</p>
+</p> -->
 
 <p align="left">
   <a href="https://todo-frontend-rf06.onrender.com/" target="_blank">
     <img alt="Todo App" src="https://img.shields.io/badge/Live%20App-Todo%20App-7952B3?style=flat&logo=js" />
     Todo App
   </a><br/>
-  A responsive and interactive Todo application whose frontend is built with HTML, CSS and Js with Tailwind CSS and the backend is build with node, express and MongoDB. The App is not working as I have exhausted my render limits and please go through the code.
+  A responsive and interactive Todo application whose frontend is built with HTML, CSS and Js with Tailwind CSS and the backend is build with node, express and MongoDB.
 </p>
 
 <p align="left">
