@@ -53,8 +53,8 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
 
 <p align="left">
   <a href="https://todo-frontend-rf06.onrender.com/" target="_blank">
-    <img alt="Todo App" src="https://img.shields.io/badge/Live%20App-Todo%20App-7952B3?style=flat&logo=js" />
-    Todo App
+    <img alt="Task Manager App" src="https://img.shields.io/badge/Live%20App-Todo%20App-7952B3?style=flat&logo=js" />
+    Task Manager App
   </a><br/>
   A responsive and interactive Todo application whose frontend is built with HTML, CSS and Js with Tailwind CSS and the backend is build with node, express and MongoDB.
 </p>
