@@ -24,7 +24,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 Engineering student passionate about building real-world solutions with hands-on experience in low-level systems, full-stack development, and AI/ML.  
 Adept in C, Python, and modern frameworks, with a strong foundation in networking, security, and scalable software design.
 
@@ -33,15 +33,58 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
 
 ---
 
-### 🖥️ Deployed Projects
+### Deployed Projects
 
 <p align="left">
   <a href="https://amritanshuportfolio.vercel.app/" target="_blank">
     <img alt="Portfolio Live" src="https://img.shields.io/badge/Live%20Site-Portfolio-00E676?style=flat&logo=vercel" />
     My Personal Portfolio
+  </a>
+  • <a href="https://github.com/bhutuklearning/Portfolio" target="_blank">🔗 View Code</a><br/>
+  A sleek and responsive personal portfolio built with <strong>React.js</strong>, <strong>Tailwind CSS</strong>, <strong>Framer Motion</strong>, and <strong>EmailJS</strong>.  
+  Deployed on <strong>Vercel</strong>.
+</p>
+
+<p align="left">
+  <a href="https://todo-frontend-rf06.onrender.com/" target="_blank">
+    <img alt="Task Manager App" src="https://img.shields.io/badge/Live%20App-Todo%20App-7952B3?style=flat&logo=javascript" />
+    Task Manager App
+  </a>
+  • <a href="https://github.com/bhutuklearning/Todo-App-Trial" target="_blank">🔗 View Code</a><br/>
+  A responsive and interactive <strong>Todo application</strong> featuring authentication, CRUD operations, and a clean UI.  
+  Frontend built with <strong>HTML, CSS, JavaScript, Tailwind CSS</strong>; Backend built with <strong>Node.js, Express.js</strong> and <strong>MongoDB</strong>.
+</p>
+
+<p align="left">
+  <a href="https://url-shortener-basic.vercel.app/" target="_blank">
+    <img alt="URL Shortener Project" src="https://img.shields.io/badge/Live%20App-URL%20Shortener-00BFA6?style=flat&logo=link" />
+    URL Shortener
+  </a>
+  • <a href="https://github.com/bhutuklearning/URL-Shortener-Basic" target="_blank">🔗 View Code</a><br/>
+  A simple yet efficient <strong>URL Shortener</strong> that converts long URLs into compact shareable links with analytics tracking.  
+  Built with <strong>Node.js, Express.js</strong>, and <strong>MongoDB</strong>; frontend designed using <strong>HTML, CSS, JavaScript</strong>.  
+  Features include <strong>custom short links</strong>, <strong>click tracking</strong>, and <strong>copy-to-clipboard</strong> functionality.  
+  Deployed on <strong>Vercel</strong>.
+</p>
+
+<p align="left">
+  <a href="https://bhutuklearning.github.io/Js-Beginner-Project/" target="_blank">
+    <img alt="JS Beginner Project" src="https://img.shields.io/badge/Live%20Demo-JS%20Beginner%20Project-FF6F00?style=flat&logo=javascript" />
+    JS Beginner Project
+  </a>
+  • <a href="https://github.com/bhutuklearning/Js-Beginner-Project" target="_blank">🔗 View Code</a><br/>
+  A collection of small projects built using <strong>HTML, CSS, and Vanilla JavaScript</strong>, demonstrating beginner-friendly UI logic and DOM manipulation.
+</p>
+
+
+
+<!-- <p align="left">
+  <a href="https://amritanshuportfolio.vercel.app/" target="_blank">
+    <img alt="Portfolio Live" src="https://img.shields.io/badge/Live%20Site-Portfolio-00E676?style=flat&logo=vercel" />
+    My Personal Portfolio
   </a><br/>
   Built with React.js, Tailwind CSS, Framer Motion, Email JS & Deployed on Vercel
-</p>
+</p> -->
 
 <!-- <p align="left">
   <a href="https://note-making-app-wgw3.onrender.com/" target="_blank">
@@ -51,25 +94,27 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
   Full-stack MERN application for Notes Making and it supports CRUD. The App is not working as I have exhausted my render limits and please go through the code.
 </p> -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://todo-frontend-rf06.onrender.com/" target="_blank">
     <img alt="Task Manager App" src="https://img.shields.io/badge/Live%20App-Todo%20App-7952B3?style=flat&logo=js" />
     Task Manager App
   </a><br/>
   A responsive and interactive Todo application whose frontend is built with HTML, CSS and Js with Tailwind CSS and the backend is build with node, express and MongoDB.
-</p>
+</p> -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://bhutuklearning.github.io/Js-Beginner-Project/" target="_blank">
     <img alt="JS Beginner Project" src="https://img.shields.io/badge/Live%20Demo-JS%20Beginner%20Project-FF6F00?style=flat&logo=javascript" />
     JS Beginner Project
   </a><br/>
   Simple HTML, CSS & JavaScript showcase
-</p>
+</p> -->
+
+
 
 ---
 
-### 🧪 Experimenting with Machine Learning
+###  Experimenting with Machine Learning
 I’m deploying simple regression models with Streamlit to get hands-on with ML workflows in the cloud.  
 
 <p align="left">
@@ -91,14 +136,14 @@ The link sometimes takes time to run. So please have some patience regarding it.
 
 ---
 
-### 🌱 What I am aiming to learn
+###  What I am aiming to learn
 - TypeScript & advanced React patterns  
 - Docker & containerization  
 - Integrating AI/ML into full-stack applications
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <!-- Web & JS -->
@@ -172,13 +217,13 @@ The link sometimes takes time to run. So please have some patience regarding it.
 
 ---
 
-### 🤝 Let’s Collaborate
+###  Let’s Collaborate
 I’m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.  
 Feel free to drop me a line at <a href="mailto:amritanshugoutam@gmail.com">amritanshugoutam@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/amritanshu-goutam-015bab248/">LinkedIn</a>.
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=bhutuklearning&show_icons=true&theme=react" />
