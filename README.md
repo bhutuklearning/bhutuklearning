@@ -47,11 +47,11 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
 
 <p align="left">
   <a href="https://todo-frontend-rf06.onrender.com/" target="_blank">
-    <img alt="Task Manager App" src="https://img.shields.io/badge/Live%20App-Todo%20App-7952B3?style=flat&logo=javascript" />
+    <img alt="Task Manager App" src="https://img.shields.io/badge/Live%20App-Task%20Manager%20App-68A063?style=flat&logo=node.js" />
     Task Manager App
   </a>
   • <a href="https://github.com/bhutuklearning/Todo-App-Trial" target="_blank">🔗 View Code</a><br/>
-  A responsive and interactive <strong>Todo application</strong> featuring authentication, CRUD operations, and a clean UI.  
+  A responsive and interactive <strong>Task Management application</strong> featuring authentication, CRUD operations, and a clean UI.  
   Frontend built with <strong>HTML, CSS, JavaScript, Tailwind CSS</strong>; Backend built with <strong>Node.js, Express.js</strong> and <strong>MongoDB</strong>.
 </p>
 
@@ -62,9 +62,9 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
   </a>
   • <a href="https://github.com/bhutuklearning/URL-Shortener-Basic" target="_blank">🔗 View Code</a><br/>
   A simple yet efficient <strong>URL Shortener</strong> that converts long URLs into compact shareable links with analytics tracking.  
-  Built with <strong>Node.js, Express.js</strong>, and <strong>MongoDB</strong>; frontend designed using <strong>HTML, CSS, JavaScript</strong>.  
+  Built with <strong>Node.js, Express.js</strong>, and <strong>MongoDB</strong> and frontend designed using <strong>React</strong>.  
   Features include <strong>custom short links</strong>, <strong>click tracking</strong>, and <strong>copy-to-clipboard</strong> functionality.  
-  Deployed on <strong>Vercel</strong>.
+  Deployed on <strong>Vercel</strong>. The backend of ths project has features like rate limiting, logging and securing middlewares using helmet and error monitoring, etc.
 </p>
 
 <p align="left">
