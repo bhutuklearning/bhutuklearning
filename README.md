@@ -63,7 +63,7 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
   • <a href="https://github.com/bhutuklearning/URL-Shortener-Basic" target="_blank">🔗 View Code</a><br/>
   A simple yet efficient <strong>URL Shortener</strong> that converts long URLs into compact shareable links with analytics tracking.  
   Built with <strong>Node.js, Express.js</strong>, and <strong>MongoDB</strong> and frontend designed using <strong>React</strong>.  
-  Features include <strong>custom short links</strong>, <strong>click tracking</strong>, and <strong>copy-to-clipboard</strong> functionality.  
+  Features include <strong>custom short links</strong>, <strong>click tracking</strong>,and other functionalities.  
   Deployed on <strong>Vercel</strong>. The backend of ths project has features like rate limiting, logging and securing middlewares using helmet and error monitoring, etc.
 </p>
 
