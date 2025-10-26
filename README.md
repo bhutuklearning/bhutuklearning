@@ -40,7 +40,7 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
     <img alt="Portfolio Live" src="https://img.shields.io/badge/Live%20Site-Portfolio-00E676?style=flat&logo=vercel" />
     My Personal Portfolio
   </a>
-  • <a href="https://github.com/bhutuklearning/Portfolio" target="_blank">🔗 View Code</a><br/>
+  • <a href="https://github.com/bhutuklearning/amritanshuportfolio" target="_blank">🔗 View Code</a><br/>
   A sleek and responsive personal portfolio built with <strong>React.js</strong>, <strong>Tailwind CSS</strong>, <strong>Framer Motion</strong>, and <strong>EmailJS</strong>.  
   Deployed on <strong>Vercel</strong>.
 </p>
@@ -60,7 +60,7 @@ Adept in C, Python, and modern frameworks, with a strong foundation in networkin
     <img alt="URL Shortener Project" src="https://img.shields.io/badge/Live%20App-URL%20Shortener-00BFA6?style=flat&logo=link" />
     URL Shortener
   </a>
-  • <a href="https://github.com/bhutuklearning/URL-Shortener-Basic" target="_blank">🔗 View Code</a><br/>
+  • <a href="https://github.com/bhutuklearning/Basic-URL-Shortener" target="_blank">🔗 View Code</a><br/>
   A simple yet efficient <strong>URL Shortener</strong> that converts long URLs into compact shareable links with analytics tracking.  
   Built with <strong>Node.js, Express.js</strong>, and <strong>MongoDB</strong> and frontend designed using <strong>React</strong>.  
   Features include <strong>custom short links</strong>, <strong>click tracking</strong>,and other functionalities.  
