@@ -221,7 +221,7 @@ The link sometimes takes time to run. So please have some patience regarding it.
 I’m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.  
 Feel free to drop me a line at <a href="mailto:amritanshugoutam@gmail.com">amritanshugoutam@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/amritanshu-goutam-015bab248/">LinkedIn</a>.
 
-Checkout my own linktree which I made: <a href="https://linktree-amritanshu.vercel.app/"> My own made Linktree </a>.
+Checkout my own linktree which I made: <a href="https://linktree-amritanshu.vercel.app/" target="_blank"> My own made Linktree </a>.
 
 ---
 
