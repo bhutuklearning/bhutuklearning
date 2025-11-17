@@ -25,11 +25,11 @@
 ---
 
 ###  About Me
-Engineering student passionate about building real-world solutions with hands-on experience in low-level systems, full-stack development, and AI/ML.  
-Adept in C, Python, and modern frameworks, with a strong foundation in networking, security, and scalable software design.
+Engineering student passionate about learning and  building real-world solutions. <!--  with hands-on experience in low-level systems, full-stack development, and AI/ML --> 
+<!-- Adept in C, Python, and modern frameworks, with a strong foundation in networking, security, and scalable software design. -->
 
-- On a mission to master the **MERN stack**, level-up my problem-solving skills, and contribute to open source.  
-- Exploring AI and ML to uncover innovative solutions for real-world problems.
+<!-- - On a mission to master the **MERN stack**, level-up my problem-solving skills, and contribute to open source.   -->
+<!-- - Exploring AI and ML to uncover innovative solutions for real-world problems. -->
 
 ---
 
