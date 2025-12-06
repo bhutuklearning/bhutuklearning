@@ -227,7 +227,7 @@ Checkout my own linktree which I made: <a href="https://linktree-amritanshu.verc
 
 ###  GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/bhutuklearning">
     <img
       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhutuklearning&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"
@@ -241,4 +241,4 @@ Checkout my own linktree which I made: <a href="https://linktree-amritanshu.verc
     />
   </a>
 </p>
-
+ -->
