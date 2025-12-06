@@ -228,6 +228,17 @@ Checkout my own linktree which I made: <a href="https://linktree-amritanshu.verc
 ###  GitHub Stats
 
 <p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=bhutuklearning&show_icons=true&theme=react" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhutuklearning&layout=compact&theme=react" />
+  <a href="https://github.com/bhutuklearning">
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhutuklearning&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/bhutuklearning">
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhutuklearning&layout=compact&theme=react&hide_border=true"
+      alt="Top Languages"
+    />
+  </a>
 </p>
+
