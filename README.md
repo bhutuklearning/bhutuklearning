@@ -225,7 +225,9 @@ Checkout my own linktree which I made: <a href="https://linktree-amritanshu.verc
 
 ---
 
+<!--
 ###  GitHub Stats
+-->
 
 <!-- <p align="center">
   <a href="https://github.com/bhutuklearning">
