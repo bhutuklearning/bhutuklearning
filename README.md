@@ -64,7 +64,20 @@ Engineering student passionate about learning and  building real-world solutions
   A simple yet efficient <strong>URL Shortener</strong> that converts long URLs into compact shareable links with analytics tracking.  
   Built with <strong>Node.js, Express.js</strong>, and <strong>MongoDB</strong> and frontend designed using <strong>React</strong>.  
   Features include <strong>custom short links</strong>, <strong>click tracking</strong>,and other functionalities.  
-  Deployed on <strong>Vercel</strong>. The backend of ths project has features like rate limiting, logging and securing middlewares using helmet and error monitoring, etc.
+  Deployed on <strong>Vercel</strong>. The backend of the project has features like rate limiting, logging and securing middlewares using helmet and error monitoring, etc.
+</p>
+
+<p align="left">
+  <a href="https://uni-prep-nyvz.vercel.app/" target="_blank">
+    <img alt="URL Shortener Project" src="https://img.shields.io/badge/Live%20App-Uniprep%20Copilot-00BFA6?style=flat&logo=link" />
+    UniPrep Copilot
+  </a>
+  • <a href="https://github.com/Avoy-Sasmal/UniPrep" target="_blank">🔗 View Code</a><br/>
+  A smart and efficient <strong>AI-powered academic companion</strong> that helps university students excel in their studies by generating personalized learning resources.<br/>
+Built using <strong>AI/ML technologies</strong> with a scalable backend and a user-friendly frontend for seamless academic support.<br/>
+Features include <strong>AI-generated study materials</strong>, <strong>exam preparation resources</strong>, <strong>personalized revision plans</strong>, and <strong>support for syllabus, notes, and past paper uploads</strong>, tailored to <strong>university, branch, and answer-style preferences</strong>.<br/>
+Designed to improve study efficiency, reduce preparation time, and enhance conceptual understanding through intelligent automation.
+
 </p>
 
 <p align="left">
