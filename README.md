@@ -52,8 +52,10 @@ Engineering student passionate about learning and  building real-world solutions
         A smart <strong>AI-powered academic companion</strong> helping university students excel. Features AI-generated study materials, exam prep, and syllabus analysis tailored to specific university branches.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenRouter-412991?style=flat-square&logo=openRouter&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
     </td>
