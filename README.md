@@ -81,7 +81,7 @@ Engineering student passionate about learning and  building real-world solutions
     <td width="50%" align="center" valign="top">
       <h3 align="center">Task Manager App</h3>
       <a href="https://todo-frontend-rf06.onrender.com/" target="_blank">
-        <img src="https://img.shields.io/badge/LIVE_APP-68A063?style=for-the-badge&logo=node.js&logoColor=white" />
+         <img src="https://img.shields.io/badge/LIVE_DEMO-00E676?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <a href="https://github.com/bhutuklearning/Todo-App-Trial" target="_blank">
         <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
@@ -100,7 +100,7 @@ Engineering student passionate about learning and  building real-world solutions
     <td width="50%" align="center" valign="top">
       <h3 align="center">Advanced URL Shortener</h3>
       <a href="https://url-shortener-basic.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/LIVE_APP-00BFA6?style=for-the-badge&logo=link&logoColor=white" />
+        <img src="https://img.shields.io/badge/LIVE_DEMO-00E676?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <a href="https://github.com/bhutuklearning/Basic-URL-Shortener" target="_blank">
         <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
