@@ -193,75 +193,32 @@ The link sometimes takes time to run. So please have some patience regarding it.
 
 ###  Tech Stack
 
-<p align="left">
-  <!-- Web & JS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  </a>
-  <a href="https://tailwindcss.com" target="_blank">
-    <img alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  </a>
-  <a href="https://www.mongodb.com" target="_blank">
-    <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  </a>
-  <a href="https://mongoosejs.com" target="_blank">
-    <img alt="Mongoose" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br />
 
-  <!-- Python & Data Science -->
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  </a>
-  <a href="https://numpy.org" target="_blank">
-    <img alt="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" />
-  </a>
-  <a href="https://pandas.pydata.org" target="_blank">
-    <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" />
-  </a>
-  <a href="https://scikit-learn.org" target="_blank">
-    <img alt="Scikit-learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br />
 
-  <!-- Systems & Languages -->
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" />
-  </a>
-  <a href="https://www.linux.org" target="_blank">
-    <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <br />
 
-  <!-- Tools & IDEs -->
-  <a href="https://git-scm.com" target="_blank">
-    <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
-  </a>
-  <a href="https://www.postman.com" target="_blank">
-    <img alt="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 
 ---
 
