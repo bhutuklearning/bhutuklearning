@@ -35,95 +35,107 @@ Engineering student passionate about learning and  building real-world solutions
 
 ### Deployed Projects
 
-<p align="left">
-  <a href="https://amritanshuportfolio.vercel.app/" target="_blank">
-    <img alt="Portfolio Live" src="https://img.shields.io/badge/Live%20Site-Portfolio-00E676?style=flat&logo=vercel" />
-    My Personal Portfolio
-  </a>
-  • <a href="https://github.com/bhutuklearning/amritanshuportfolio" target="_blank">🔗 View Code</a><br/>
-  A sleek and responsive personal portfolio built with <strong>React.js</strong>, <strong>Tailwind CSS</strong>, <strong>Framer Motion</strong>, and <strong>EmailJS</strong>.  
-  Deployed on <strong>Vercel</strong>.
-</p>
+<h2 align="center">🚀 Deployed Projects</h2>
 
-<p align="left">
-  <a href="https://todo-frontend-rf06.onrender.com/" target="_blank">
-    <img alt="Task Manager App" src="https://img.shields.io/badge/Live%20App-Task%20Manager%20App-68A063?style=flat&logo=node.js" />
-    Task Manager App
-  </a>
-  • <a href="https://github.com/bhutuklearning/Todo-App-Trial" target="_blank">🔗 View Code</a><br/>
-  A responsive and interactive <strong>Task Management application</strong> featuring authentication, CRUD operations, and a clean UI.  
-  Frontend built with <strong>HTML, CSS, JavaScript, Tailwind CSS</strong>; Backend built with <strong>Node.js, Express.js</strong> and <strong>MongoDB</strong>.
-</p>
-
-<p align="left">
-  <a href="https://url-shortener-basic.vercel.app/" target="_blank">
-    <img alt="URL Shortener Project" src="https://img.shields.io/badge/Live%20App-URL%20Shortener-00BFA6?style=flat&logo=link" />
-    URL Shortener
-  </a>
-  • <a href="https://github.com/bhutuklearning/Basic-URL-Shortener" target="_blank">🔗 View Code</a><br/>
-  A simple yet efficient <strong>URL Shortener</strong> that converts long URLs into compact shareable links with analytics tracking.  
-  Built with <strong>Node.js, Express.js</strong>, and <strong>MongoDB</strong> and frontend designed using <strong>React</strong>.  
-  Features include <strong>custom short links</strong>, <strong>click tracking</strong>,and other functionalities.  
-  Deployed on <strong>Vercel</strong>. The backend of the project has features like rate limiting, logging and securing middlewares using helmet and error monitoring, etc.
-</p>
-
-<p align="left">
-  <a href="https://uni-prep-nyvz.vercel.app/" target="_blank">
-    <img alt="URL Shortener Project" src="https://img.shields.io/badge/Live%20App-Uniprep%20Copilot-00BFA6?style=flat&logo=link" />
-    UniPrep Copilot
-  </a>
-  • <a href="https://github.com/Avoy-Sasmal/UniPrep" target="_blank">🔗 View Code</a><br/>
-  A smart and efficient <strong>AI-powered academic companion</strong> that helps university students excel in their studies by generating personalized learning resources.<br/>
-Built using <strong>AI/ML technologies</strong> with a scalable backend and a user-friendly frontend for seamless academic support.<br/>
-Features include <strong>AI-generated study materials</strong>, <strong>exam preparation resources</strong>, <strong>personalized revision plans</strong>, and <strong>support for syllabus, notes, and past paper uploads</strong>, tailored to <strong>university, branch, and answer-style preferences</strong>.<br/>
-Designed to improve study efficiency, reduce preparation time, and enhance conceptual understanding through intelligent automation.
-
-</p>
-
-<p align="left">
-  <a href="https://bhutuklearning.github.io/Js-Beginner-Project/" target="_blank">
-    <img alt="JS Beginner Project" src="https://img.shields.io/badge/Live%20Demo-JS%20Beginner%20Project-FF6F00?style=flat&logo=javascript" />
-    JS Beginner Project
-  </a>
-  • <a href="https://github.com/bhutuklearning/Js-Beginner-Project" target="_blank">🔗 View Code</a><br/>
-  A collection of small projects built using <strong>HTML, CSS, and Vanilla JavaScript</strong>, demonstrating beginner-friendly UI logic and DOM manipulation.
-</p>
-
-
-
-<!-- <p align="left">
-  <a href="https://amritanshuportfolio.vercel.app/" target="_blank">
-    <img alt="Portfolio Live" src="https://img.shields.io/badge/Live%20Site-Portfolio-00E676?style=flat&logo=vercel" />
-    My Personal Portfolio
-  </a><br/>
-  Built with React.js, Tailwind CSS, Framer Motion, Email JS & Deployed on Vercel
-</p> -->
-
-<!-- <p align="left">
-  <a href="https://note-making-app-wgw3.onrender.com/" target="_blank">
-    <img alt="Note App" src="https://img.shields.io/badge/Live%20App-Note%20Maker-4169E1?style=flat&logo=node.js" />
-    Note Making App
-  </a><br/>
-  Full-stack MERN application for Notes Making and it supports CRUD. The App is not working as I have exhausted my render limits and please go through the code.
-</p> -->
-
-<!-- <p align="left">
-  <a href="https://todo-frontend-rf06.onrender.com/" target="_blank">
-    <img alt="Task Manager App" src="https://img.shields.io/badge/Live%20App-Todo%20App-7952B3?style=flat&logo=js" />
-    Task Manager App
-  </a><br/>
-  A responsive and interactive Todo application whose frontend is built with HTML, CSS and Js with Tailwind CSS and the backend is build with node, express and MongoDB.
-</p> -->
-
-<!-- <p align="left">
-  <a href="https://bhutuklearning.github.io/Js-Beginner-Project/" target="_blank">
-    <img alt="JS Beginner Project" src="https://img.shields.io/badge/Live%20Demo-JS%20Beginner%20Project-FF6F00?style=flat&logo=javascript" />
-    JS Beginner Project
-  </a><br/>
-  Simple HTML, CSS & JavaScript showcase
-</p> -->
-
-
+<table style="width:100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">UniPrep Copilot</h3>
+      <a href="https://uni-prep-nyvz.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-00E676?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/Avoy-Sasmal/UniPrep" target="_blank">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br /><br />
+      <p align="left">
+        A smart <strong>AI-powered academic companion</strong> helping university students excel. Features AI-generated study materials, exam prep, and syllabus analysis tailored to specific university branches.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">Personal Portfolio</h3>
+      <a href="https://amritanshuportfolio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-00E676?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/bhutuklearning/amritanshuportfolio" target="_blank">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br /><br />
+      <p align="left">
+        A sleek, responsive portfolio featuring smooth animations and a modern UI. Includes contact forms via EmailJS and complex layout handling.
+      </p>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">Task Manager App</h3>
+      <a href="https://todo-frontend-rf06.onrender.com/" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE_APP-68A063?style=for-the-badge&logo=node.js&logoColor=white" />
+      </a>
+      <a href="https://github.com/bhutuklearning/Todo-App-Trial" target="_blank">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br /><br />
+      <p align="left">
+        A robust <strong>Task Management system</strong> featuring secure user authentication, full CRUD operations, and a responsive dashboard.
+      </p>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">Advanced URL Shortener</h3>
+      <a href="https://url-shortener-basic.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE_APP-00BFA6?style=for-the-badge&logo=link&logoColor=white" />
+      </a>
+      <a href="https://github.com/bhutuklearning/Basic-URL-Shortener" target="_blank">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br /><br />
+      <p align="left">
+        Efficient link management system with <strong>analytics tracking</strong>, rate limiting, and custom aliases. Built with security best practices (Helmet, logging).
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MERN_Stack-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Analytics-FF6F00?style=flat-square&logo=googleanalytics&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3 align="center">JS Beginner Projects</h3>
+      <a href="https://bhutuklearning.github.io/Js-Beginner-Project/" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-FF6F00?style=for-the-badge&logo=javascript&logoColor=white" />
+      </a>
+      <a href="https://github.com/bhutuklearning/Js-Beginner-Project" target="_blank">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br /><br />
+      <p align="center">
+        A collection of interactive DOM manipulation projects demonstrating core logic and UI fundamentals without frameworks.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
