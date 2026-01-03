@@ -165,6 +165,8 @@ Engineering student passionate about learning and  building real-world solutions
     </td>
   </tr>
 </table>
+
+
 ---
 
 ###  Experimenting with Machine Learning
@@ -186,13 +188,6 @@ I’m deploying simple regression models with Streamlit to get hands-on with ML 
   Multivariate regression.
 The link sometimes takes time to run. So please have some patience regarding it.
 </p>
-
----
-
-###  What I am aiming to learn
-- TypeScript & advanced React patterns  
-- Docker & containerization  
-- Integrating AI/ML into full-stack applications
 
 ---
 
