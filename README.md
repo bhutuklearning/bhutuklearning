@@ -79,11 +79,12 @@ Engineering student passionate about learning and  building real-world solutions
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center" valign="top">
       <h3 align="center">Task Manager App</h3>
       <a href="https://todo-frontend-rf06.onrender.com/" target="_blank">
-         <img src="https://img.shields.io/badge/LIVE_DEMO-00E676?style=for-the-badge&logo=vercel&logoColor=white" />
+          <img src="https://img.shields.io/badge/LIVE_DEMO-00E676?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <a href="https://github.com/bhutuklearning/Todo-App-Trial" target="_blank">
         <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
@@ -117,8 +118,9 @@ Engineering student passionate about learning and  building real-world solutions
       </p>
     </td>
   </tr>
-    <tr>
-    <td colspan="2" align="center" valign="top">
+
+  <tr>
+    <td width="50%" align="center" valign="top">
       <h3 align="center">JS Beginner Projects</h3>
       <a href="https://bhutuklearning.github.io/Js-Beginner-Project/" target="_blank">
         <img src="https://img.shields.io/badge/LIVE_DEMO-FF6F00?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -127,18 +129,36 @@ Engineering student passionate about learning and  building real-world solutions
         <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br /><br />
-      <p align="center">
+      <p align="left">
         A collection of interactive DOM manipulation projects demonstrating core logic and UI fundamentals without frameworks.
       </p>
+      <br/>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">Scan Browser Diagnostics</h3>
+      <a href="https://scan-browser.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-00E676?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/bhutuklearning/Browser-Scan" target="_blank">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br /><br />
+      <p align="left">
+        Enterprise-grade <strong>device fingerprinting platform</strong>. Features real-time diagnostics, geolocation mapping, and compressed dual-storage logging.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Leaflet_Maps-199900?style=flat-square&logo=leaflet&logoColor=white" />
+      </p>
+    </td>
   </tr>
 </table>
-
 ---
 
 ###  Experimenting with Machine Learning
