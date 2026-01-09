@@ -33,9 +33,10 @@ Engineering student passionate about learning and  building real-world solutions
 
 ---
 
+<!--
 ### Deployed Projects
-
-<h2 align="center">🚀 Deployed Projects</h2>
+-->
+<h2 align="center"> Deployed Projects</h2>
 
 <table style="width:100%">
   <tr>
