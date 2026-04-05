@@ -40,7 +40,7 @@ Engineering student passionate about learning and  building real-world solutions
 
 <table style="width:100%">
   <tr>
-    <!-- <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3 align="center">UniPrep Copilot</h3>
       <a href="https://uni-prep-nyvz.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/LIVE_DEMO-00E676?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -59,7 +59,7 @@ Engineering student passionate about learning and  building real-world solutions
         <img src="https://img.shields.io/badge/OpenRouter-412991?style=flat-square&logo=openRouter&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
-    </td> -->
+    </td>
     <td width="50%" align="center" valign="top">
       <h3 align="center">Personal Portfolio</h3>
       <a href="https://amritanshuportfolio.vercel.app/" target="_blank">
