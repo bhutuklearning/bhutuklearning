@@ -36,7 +36,7 @@ Engineering student passionate about learning and  building real-world solutions
 <!--
 ### Deployed Projects
 -->
-<h2 align="center"> Deployed Projects</h2>
+<h2 align="center">🚀 Deployed Projects</h2>
 
 <table style="width:100%">
   <tr>
@@ -162,6 +162,47 @@ Engineering student passionate about learning and  building real-world solutions
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">AcadBuddy</h3>
+      <a href="https://acadbuddy.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-00E676?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/ankitmishra2002/Acadbuddy" target="_blank">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br /><br />
+      <p align="left">
+        An <strong>AI-powered educational workspace</strong> for organizing subjects, generating smart notes, exam prep, and peer-to-peer study material sharing.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenRouter-412991?style=flat-square&logo=openRouter&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">Unified Async Platform</h3>
+      <a href="https://github.com/bhutuklearning/Unified-Async-Workflow-and-Notification-Platform" target="_blank">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br /><br />
+      <p align="left">
+        A production-ready <strong>microservices backend</strong> featuring event-driven architecture, robust JWT auth, and intelligent Redis-backed rate limiting.
+      </p>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
     </td>
   </tr>
