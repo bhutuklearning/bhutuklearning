@@ -36,7 +36,7 @@ Engineering student passionate about learning and  building real-world solutions
 <!--
 ### Deployed Projects
 -->
-<h2 align="center">🚀 Deployed Projects</h2>
+<h2 align="center"> Just Projects </h2>
 
 <table style="width:100%">
   <tr>
@@ -188,7 +188,8 @@ Engineering student passionate about learning and  building real-world solutions
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3 align="center">Unified Async Platform</h3>
+      <h3 align="center">Unified-Async-Workflow-and-Notification-Platform
+</h3>
       <a href="https://github.com/bhutuklearning/Unified-Async-Workflow-and-Notification-Platform" target="_blank">
         <img src="https://img.shields.io/badge/SOURCE_CODE-24292e?style=for-the-badge&logo=github&logoColor=white" />
       </a>
